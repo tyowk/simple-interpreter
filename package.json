@@ -1,0 +1,19 @@
+{
+    "name": "simple-interpreter",
+    "version": "1.0.0",
+    "description": "A tiny interpreter for a minimal language with variables, functions, and basic expressions. Great for learning or small experiments.",
+    "main": "index.js",
+    "keywords": [
+        "interpreter",
+        "parser",
+        "compiler",
+        "language",
+        "learning",
+        "experiment",
+        "minimal",
+        "variables",
+        "functions"
+    ],
+    "author": "Tyowk <tyowk@outlook.com>",
+    "license": "Apache-2.0"
+}
