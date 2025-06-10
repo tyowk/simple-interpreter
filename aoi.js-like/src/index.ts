@@ -24,3 +24,11 @@ console.log(
         customError: (msg, line, col, frame) => `Oops! ${msg} near line ${line}, col ${col}${frame}`
     })
 );
+
+/**
+ * Expected output:
+ *     Finished executing code
+ *     Block A
+ *
+ *     Hewwo, Wowwd!
+ */
