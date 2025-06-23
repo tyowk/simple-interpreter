@@ -4,14 +4,11 @@
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "scripts": {
-        "build": "tsc -p tsconfig.json",
-        "format": "biome format src --write",
-        "lint": "biome lint src --fix"
+        "build": "tsc -p tsconfig.json"
     },
     "author": "Tyowk <tyowk@outlook.com>",
     "license": "Apache-2.0",
     "devDependencies": {
-        "@biomejs/biome": "^1.9.4",
         "typescript": "^5.8.3"
     },
     "dependencies": {
